@@ -1,2 +1,3 @@
 # Convolutional-Neural-Network
-Study material for CNN 
+Projects on CNN
+
