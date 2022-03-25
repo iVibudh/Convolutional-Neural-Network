@@ -1,2 +1,6 @@
 # Ignoring all zip files 
 *.zip
+
+# Ignore all the files in the classification folder
+# because we have about 400Mbs of data used for trainging the dtaaset
+*Classification_test_train_smaples*
