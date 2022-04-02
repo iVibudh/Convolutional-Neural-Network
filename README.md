@@ -28,4 +28,7 @@ Some key observations:
 - Some later block filters, you may observe that the images generated are very random. You might want to look at loss values here. It might be the case that these filters are not activated much and might not have a huge impact in making the decisions.
 - For later block filters, you may observe that there are similar patters of various sizes, maybe it might be indicating patters of various sizes. 
 
+Read more about 3 ways of visualizing deep convolutional network in this article: https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b
+
+
 <a href="https://github.com/iVibudh/Convolutional-Neural-Network/blob/main/3.%20Visualizing%20Filters%20of%20a%20CNN%20using%20TensorFlow/Visualizing_Filters_of_a_CNN.ipynb">Link to file ↩</a>
